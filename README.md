@@ -24,11 +24,40 @@
 * [AWS Certified Solutions Architect](https://www.credly.com/badges/5eee5d85-eed4-4158-a372-fa86504ed74d/public_url)
 
 ## Positions
-* Lead Operations Engineer, Dreamoval Limited (May 2021 - September 2022)
+* ### Lead Operations Engineer, Dreamoval Limited (May 2021 - September 2022)
+    - Lead, Service Operations Centre Engineering Unit 
+    - Led a successful planning and execution of robust data management that improved the performance of the firm’s software applications and ensured quality data.
+    - Developed an ETL pipeline for loading archived data for querying using AWS Glue, Athena, and AWS S3.
+    - Wrote native MongoDB and SQL queries that generate business intelligence data periodically. 
+    - Automated reconciliation activities for the reconciliation and settlement team using Python scripts. 
+    - Periodic reporting by preparing Business Intelligence dashboards for management to measure the performance of products. 
+    - Analyzing data from databases and logs to inform the Product team on which features to prioritize, and the sales and marketing team on the type of customers to target. 
+    - Led the successful API integration of 395 businesses (including Fintech Companies and Banks) which resulted in a 40% increase in total transaction volume 
+    - Successfully managed enterprise clients’ engagement that improved Net Promoter Score by 20% and eliminated unnecessary escalations. 
+    - Led cross-functional team engagements by explaining technical issues to non-technical and technical teams including Products, Enterprise and Consulting Services, Security and Compliance, Engineering, and Solution Delivery. 
+    - Led the timely restoration of failing critical services, applications, and infrastructure in a 10-member team(remote and in-person) to meet SLAs and SLOs as regards security, availability, and reliability.
+    - Automated performance reports to the regulator as part of compliance requirements using Python scripts.
+    - Serves as the data custodian for the organization in order to have a consolidated form of reporting on business performance
+    - Implemented Automated testing into the CI/CD pipeline in order to prevent regression on deployments. 
+    - Wrote maintenance and automation scripts to facilitate the deployment of enterprise applications.
+    - Debugging and finding the root cause of issues to be reported to the development team 
 
-* Technical Support Engineer, Dreamoval Limited (June 2019 to April 2021)
 
-* Freelancer, (October 2017 - present)
+* ### Technical Support Engineer, Dreamoval Limited (June 2019 to April 2021)
+    - Automated data generation for billing Enterprise Clients to be sent to the Finance team periodically. 
+    - Migrated a standalone MongoDB to cluster MongoDB to improve performance and reliability. 
+    - Migrated microservice applications with MySQL database from Ubuntu to Enterprise RedHat Linux to meet the clients’ architecture requirements.
+    - Reduced the error rate on production systems by 20% by analyzing data for error patterns and reporting to the development team for optimization. 
+    - Determined the profitability of software products by analyzing the conversion rate and active users’ performance. 
+    - Led the Implementation of the incident management process including identifying the issue, declaring, labeling incidents with appropriate severity, coordinating, escalations, communications, and restoration of service.  
+    - Deployment and maintenance of applications (Cloud and on-premise) 
+    - Successfully managed enterprise clients’ engagement that improved Net Promoter Score by 10% and eliminated unnecessary escalations.  
+    - Scripting for maintenance and automation with Python and Ansible  
+    - Ansible scripts for automating the deployment of applications to be integrated into the CI/CD Pipeline 
+    - Provided On-site and Remote support for Enterprise clients
+
+
+* ### Freelancer(Software and Data Engineering), (October 2017 - present)
 
 ## Tech Stack
 ### Languages 
