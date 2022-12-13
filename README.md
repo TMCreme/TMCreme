@@ -20,6 +20,66 @@
 
 * Other projects including APIs in django are available in my repository.  
 
+## Positions
+* Lead Operations Engineer, Dreamoval Limited (May 2021 - September 2022)
+
+* Technical Support Engineer, Dreamoval Limited (June 2019 to April 2021)
+
+* Freelancer, (October 2018 - present)
+
+## Tech Stack
+### Languages 
+* Python - Senior 
+* JavaScript - Mid-Level 
+* R - Mid-Level
+* HTML5 
+
+### Frameworks
+* Django - Senior 
+* FastAPi  Mid-Level
+* Nodejs - Beginner
+
+### Databases
+* MongoDB
+* MySQL 
+* PostgreSQL 
+* Snowflake 
+* Redis
+* Elasticsearch 
+
+### CI/CD
+* Jenkins
+* TeamCity 
+
+### Cloud 
+* AWS - Senior
+* Microsoft Azure 
+* Heroku 
+
+### Containers 
+* Docker
+* Docker Compose
+
+### Automation and Infrastructure as Code
+* Ansible 
+* Terraform 
+
+### Monitoring
+* Datadog
+* Kibana
+
+### Other Tools 
+* Numpy
+* Pandas
+* Pytorch
+* Airflow 
+* DBT 
+* PySpark
+* Apache Kafka
+* JIRA
+* Nginx 
+* Celery 
+
 ## Contact
 - 📫 Reach me at mailto:tonnybright35@gmail.com via email, [Twitter](https://twitter.com/BrightTonny), [Linkedin](https://www.linkedin.com/in/tonny-bright-sogli-245566a9/) 
 
