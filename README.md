@@ -2,6 +2,7 @@
 * Hello there 👋, I’m Tonny-Bright. I work as a Lead Operations Engineer at Dreamoval, a Freelancer and a data science enthusiast. Python is my language of choice for most things. I'm however familiar with other tools and processes in the software development life cycle.
 
 * I’m a certified AWS Solutions Architect Associate and have worked as a Cloud Engineer for three and half years. In those years, I have worked mainly with AWS services ranging from EC2, VPC, ECS, Aurora, Data Migration Service, Schema Conversion Tool, AWS Glue, Athena, RedShift, Dynamodb, Lambda, S3, etc. 
+
 * Other tools and services apart from AWS include Datadog, Metabase for Business Intelligence dashboarding and analysis, Elasticsearch, Kibana, Apache kafka, Microservices Architecture, MongoDB, MySQL, Redis, Django, Django Rest Framework, Celery, Javascript, Terraform, Jenkins, Docker, Ansible etc. 
 
 * I’m looking to collaborate on anything relating to Data; backend software engineering, cloud engineering (AWS), data pipelines, data warehouses, data lakes, delta lake, data analysis, machine learning.
@@ -20,7 +21,7 @@
 * Other projects including APIs in django are available in my repository.  
 
 ## Contact
-- 📫 Reach me at tonnybright35@gmail.com via email, [Twitter](https://twitter.com/BrightTonny), [Linkedin](https://www.linkedin.com/in/tonny-bright-sogli-245566a9/) 
+- 📫 Reach me at mailto:tonnybright35@gmail.com via email, [Twitter](https://twitter.com/BrightTonny), [Linkedin](https://www.linkedin.com/in/tonny-bright-sogli-245566a9/) 
 
 
 
