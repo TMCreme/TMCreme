@@ -20,12 +20,15 @@
 
 * Other projects including APIs in django are available in my repository.  
 
+## Certifications
+* [AWS Certified Solutions Architect](https://www.credly.com/badges/5eee5d85-eed4-4158-a372-fa86504ed74d/public_url)
+
 ## Positions
 * Lead Operations Engineer, Dreamoval Limited (May 2021 - September 2022)
 
 * Technical Support Engineer, Dreamoval Limited (June 2019 to April 2021)
 
-* Freelancer, (October 2018 - present)
+* Freelancer, (October 2017 - present)
 
 ## Tech Stack
 ### Languages 
@@ -68,7 +71,7 @@
 * Datadog
 * Kibana
 
-### Other Tools 
+### Others 
 * Numpy
 * Pandas
 * Pytorch
