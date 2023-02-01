@@ -64,13 +64,6 @@
 ![](https://img.shields.io/badge/Tools-Celery-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
 
 
-* Airflow 
-* DBT 
-* PySpark
-* Apache Kafka
-* JIRA
-* Nginx 
-* Celery 
 ---
 ## Github Stats
 
