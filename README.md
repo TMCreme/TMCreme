@@ -1,5 +1,5 @@
 ## Introduction
-* Hello there 👋, I’m Tonny-Bright. I work as a Lead Operations Engineer at Dreamoval, a Freelancer and a data science enthusiast. Python is my language of choice for most things. I'm however familiar with other tools and processes in the software development life cycle.
+* Hello there 👋, I’m Tonny-Bright. I worked as a Lead Operations Engineer at Dreamoval. Currently, I work a Freelancer and a data science enthusiast. Python is my language of choice for most things. I'm however familiar with other tools and processes in the software development life cycle.
 
 * I’m a certified AWS Solutions Architect Associate and have worked as a Cloud Engineer for three and half years. In those years, I have worked mainly with AWS services ranging from EC2, VPC, ECS, Aurora, Data Migration Service, Schema Conversion Tool, AWS Glue, Athena, RedShift, Dynamodb, Lambda, S3, etc. 
 
