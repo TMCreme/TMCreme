@@ -6,7 +6,7 @@
 * Other tools and services apart from AWS include Datadog, Metabase for Business Intelligence dashboarding and analysis, Elasticsearch, Kibana, Apache kafka, Microservices Architecture, MongoDB, MySQL, Redis, Django, Django Rest Framework, Celery, Javascript, Terraform, Jenkins, Docker, Ansible etc. 
 
 * I’m looking to collaborate on anything relating to Data; backend software engineering, cloud engineering (AWS), data pipelines, data warehouses, data lakes, delta lake, data analysis, machine learning.
-
+---
 ## Projects
 * [Data Pipeline](https://github.com/TMCreme/dbt_airflow_project) using Apache Airflow and DBT deployed on AWS ECS. The aim was simulate a real world scenario of data ingestion, transformation, persisting and analysis. Airflow handles the orchestration hence the ingestion was implemented in custom python code with Airflow operators and tasks. With the file sensors in Airflow, this can be extended for streaming for data files. Transformations are handled in Data Build Tool (DBT) and stored in PostgreSQL. By use of a Jenkinsfile, the project is build successfully for deployment and stored on Dockerhub.
 
@@ -19,91 +19,51 @@
 * [LawSMS](https://isms.lawsms.com/). A [mobile](https://play.google.com/store/apps/details?id=com.lawsms.app) and [web](https://isms.lawsms.com/) application to deliver legal content through SMS subscriptions. Using Django and Django Rest Framework for APIs to be consumed by the mobile and web applications
 
 * Other projects including APIs in django are available in my repository.  
-
+---
 ## Certifications
 * [AWS Certified Solutions Architect](https://www.credly.com/badges/5eee5d85-eed4-4158-a372-fa86504ed74d/public_url)
-
+![](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+---
 ## Positions
 * ### Lead Operations Engineer, Dreamoval Limited (May 2021 - September 2022)
-    - Lead, Service Operations Centre Engineering Unit 
-    - Led a successful planning and execution of robust data management that improved the performance of the firm’s software applications and ensured quality data.
-    - Developed an ETL pipeline for loading archived data for querying using AWS Glue, Athena, and AWS S3.
-    - Wrote native MongoDB and SQL queries that generate business intelligence data periodically. 
-    - Automated reconciliation activities for the reconciliation and settlement team using Python scripts. 
-    - Periodic reporting by preparing Business Intelligence dashboards for management to measure the performance of products. 
-    - Analyzing data from databases and logs to inform the Product team on which features to prioritize, and the sales and marketing team on the type of customers to target. 
-    - Led the successful API integration of 395 businesses (including Fintech Companies and Banks) which resulted in a 40% increase in total transaction volume 
-    - Successfully managed enterprise clients’ engagement that improved Net Promoter Score by 20% and eliminated unnecessary escalations. 
-    - Led cross-functional team engagements by explaining technical issues to non-technical and technical teams including Products, Enterprise and Consulting Services, Security and Compliance, Engineering, and Solution Delivery. 
-    - Led the timely restoration of failing critical services, applications, and infrastructure in a 10-member team(remote and in-person) to meet SLAs and SLOs as regards security, availability, and reliability.
-    - Automated performance reports to the regulator as part of compliance requirements using Python scripts.
-    - Serves as the data custodian for the organization in order to have a consolidated form of reporting on business performance
-    - Implemented Automated testing into the CI/CD pipeline in order to prevent regression on deployments. 
-    - Wrote maintenance and automation scripts to facilitate the deployment of enterprise applications.
-    - Debugging and finding the root cause of issues to be reported to the development team 
-
 
 * ### Technical Support Engineer, Dreamoval Limited (June 2019 to April 2021)
-    - Automated data generation for billing Enterprise Clients to be sent to the Finance team periodically. 
-    - Migrated a standalone MongoDB to cluster MongoDB to improve performance and reliability. 
-    - Migrated microservice applications with MySQL database from Ubuntu to Enterprise RedHat Linux to meet the clients’ architecture requirements.
-    - Reduced the error rate on production systems by 20% by analyzing data for error patterns and reporting to the development team for optimization. 
-    - Determined the profitability of software products by analyzing the conversion rate and active users’ performance. 
-    - Led the Implementation of the incident management process including identifying the issue, declaring, labeling incidents with appropriate severity, coordinating, escalations, communications, and restoration of service.  
-    - Deployment and maintenance of applications (Cloud and on-premise) 
-    - Successfully managed enterprise clients’ engagement that improved Net Promoter Score by 10% and eliminated unnecessary escalations.  
-    - Scripting for maintenance and automation with Python and Ansible  
-    - Ansible scripts for automating the deployment of applications to be integrated into the CI/CD Pipeline 
-    - Provided On-site and Remote support for Enterprise clients
 
 
 * ### Freelancer(Software and Data Engineering), (October 2017 - present)
+---
+<p align="center">
+<img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMCreme&layout=compact&theme=dracula">
+</p>
 
-## Tech Stack
-### Languages 
-* Python - Senior 
-* JavaScript - Mid-Level 
-* R - Mid-Level
-* HTML5 
+<h1 align="center"> 🔧 Technologies & Tools </h1>
 
-### Frameworks
-* Django - Senior 
-* FastAPi  Mid-Level
-* Nodejs - Beginner
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3498DB)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9B59B6)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=dart&logoColor=white&color=9B59B6)
+![](https://img.shields.io/badge/Code-Fastapi-informational?style=flat&logo=fastapi&logoColor=white&color=9B59B6)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=Redis&logoColor=white&color=9B59B6)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=flask&logoColor=white&color=9B59B6)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=flask&logoColor=white&color=9B59B6)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=docker&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=figma&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=docker&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Kibana-informational?style=flat&logo=docker&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Daadog-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-PySpark-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-DBT-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
+![](https://img.shields.io/badge/Tools-Celery-informational?style=flat&logo=Redis&logoColor=white&color=1ABC9C)
 
-### Databases
-* MongoDB
-* MySQL 
-* PostgreSQL 
-* Snowflake 
-* Redis
-* Elasticsearch 
 
-### CI/CD
-* Jenkins
-* TeamCity 
-
-### Cloud 
-* AWS - Senior
-* Microsoft Azure 
-* Heroku 
-
-### Containers 
-* Docker
-* Docker Compose
-
-### Automation and Infrastructure as Code
-* Ansible 
-* Terraform 
-
-### Monitoring
-* Datadog
-* Kibana
-
-### Others 
-* Numpy
-* Pandas
-* Pytorch
 * Airflow 
 * DBT 
 * PySpark
@@ -111,9 +71,17 @@
 * JIRA
 * Nginx 
 * Celery 
+---
+## Github Stats
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TMCreme&show_icons=true&theme=dracula" /></a>
+
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TMCreme&theme=dracula"/></a>
+
+
 
 ## Contact
-- 📫 Reach me at mailto:tonnybright35@gmail.com via email, [Twitter](https://twitter.com/BrightTonny), [Linkedin](https://www.linkedin.com/in/tonny-bright-sogli-245566a9/) 
+- 📫 Reach me at [email](mailto:tonnybright35@gmail.com), [Twitter](https://twitter.com/BrightTonny), [Linkedin](https://www.linkedin.com/in/tonny-bright-sogli-245566a9/) 
 
 
 
