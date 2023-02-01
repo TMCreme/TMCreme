@@ -10,23 +10,25 @@
 ---
 
 ## Projects
-* [Data Pipeline](https://github.com/TMCreme/dbt_airflow_project) using Apache Airflow and DBT deployed on AWS ECS. The aim was simulate a real world scenario of data ingestion, transformation, persisting and analysis. Airflow handles the orchestration hence the ingestion was implemented in custom python code with Airflow operators and tasks. With the file sensors in Airflow, this can be extended for streaming for data files. Transformations are handled in Data Build Tool (DBT) and stored in PostgreSQL. By use of a Jenkinsfile, the project is build successfully for deployment and stored on Dockerhub.
+* [LawSMS](https://isms.lawsms.com/). A [mobile](https://play.google.com/store/apps/details?id=com.lawsms.app) and [web](https://isms.lawsms.com/) application to deliver legal content through SMS subscriptions. Using Django and Django Rest Framework for APIs to be consumed by the mobile and web applications.
 
 * [ECS Infrastructure](https://github.com/TMCreme/terraform-airflow-ecs) using Terraform. Provisioning an ECS Cluster with Terraform including VPC, subnets, Internet gateway, Security groups, Load balancer, etc. 
+
+* [Data Pipeline](https://github.com/TMCreme/dbt_airflow_project) using Apache Airflow and DBT deployed on AWS ECS. The aim was simulate a real world scenario of data ingestion, transformation, persisting and analysis. Airflow handles the orchestration hence the ingestion was implemented in custom python code with Airflow operators and tasks. With the file sensors in Airflow, this can be extended for streaming for data files. Transformations are handled in Data Build Tool (DBT) and stored in PostgreSQL. By use of a Jenkinsfile, the project is build successfully for deployment and stored on Dockerhub.
 
 * [Image Processing](https://github.com/TMCreme/drf-image-uploader) with django rest framework, Celery and S3. Image is uploaded and stored on AWS S3 bucket. A background process in Celery generates various sizes of the image and saves in a the S3 bucket alongside the original image. Also contains an API to return an AWS S3 presigned URL to the image for a specified period of time. 
 
 * [Data Streaming](https://github.com/TMCreme/twitter-sentiments-pyspark) using PySpark, Apache Kafka and Tweepy. The streaming projects aims to simulate realtime data streaming and analysis on the fly. The Tweepy package allows us to access tweets based on specific parameters. The tweets are streamed onto a kafka topic, on which by the help of PySpark Structured Streaming, a listener is available for any data arriving. The data is aggregated, transformed and a plot generated for viewing. 
-
-* [LawSMS](https://isms.lawsms.com/). A [mobile](https://play.google.com/store/apps/details?id=com.lawsms.app) and [web](https://isms.lawsms.com/) application to deliver legal content through SMS subscriptions. Using Django and Django Rest Framework for APIs to be consumed by the mobile and web applications
 
 * Other projects including APIs in django are available in my repository.  
 
 ---
 
 ## Certifications
-* [AWS Certified Solutions Architect](https://www.credly.com/badges/5eee5d85-eed4-4158-a372-fa86504ed74d/public_url)
-![](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+<p align="center">
+<a href="https://www.credly.com/badges/5eee5d85-eed4-4158-a372-fa86504ed74d/public_url"><img width="48%" height="50%" src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
+</p>
+
 
 ---
 
@@ -55,6 +57,7 @@
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=9B59B6)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=9B59B6)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=9B59B6)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon&logoColor=white&color=1ABC9C)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=1ABC9C)
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=1ABC9C)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=1ABC9C)
