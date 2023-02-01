@@ -6,7 +6,9 @@
 * Other tools and services apart from AWS include Datadog, Metabase for Business Intelligence dashboarding and analysis, Elasticsearch, Kibana, Apache kafka, Microservices Architecture, MongoDB, MySQL, Redis, Django, Django Rest Framework, Celery, Javascript, Terraform, Jenkins, Docker, Ansible etc. 
 
 * I’m looking to collaborate on anything relating to Data; backend software engineering, cloud engineering (AWS), data pipelines, data warehouses, data lakes, delta lake, data analysis, machine learning.
+
 ---
+
 ## Projects
 * [Data Pipeline](https://github.com/TMCreme/dbt_airflow_project) using Apache Airflow and DBT deployed on AWS ECS. The aim was simulate a real world scenario of data ingestion, transformation, persisting and analysis. Airflow handles the orchestration hence the ingestion was implemented in custom python code with Airflow operators and tasks. With the file sensors in Airflow, this can be extended for streaming for data files. Transformations are handled in Data Build Tool (DBT) and stored in PostgreSQL. By use of a Jenkinsfile, the project is build successfully for deployment and stored on Dockerhub.
 
@@ -19,11 +21,15 @@
 * [LawSMS](https://isms.lawsms.com/). A [mobile](https://play.google.com/store/apps/details?id=com.lawsms.app) and [web](https://isms.lawsms.com/) application to deliver legal content through SMS subscriptions. Using Django and Django Rest Framework for APIs to be consumed by the mobile and web applications
 
 * Other projects including APIs in django are available in my repository.  
+
 ---
+
 ## Certifications
 * [AWS Certified Solutions Architect](https://www.credly.com/badges/5eee5d85-eed4-4158-a372-fa86504ed74d/public_url)
 ![](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+
 ---
+
 ## Positions
 * ### Lead Operations Engineer, Dreamoval Limited (May 2021 - September 2022)
 
@@ -31,7 +37,9 @@
 
 
 * ### Freelancer(Software and Data Engineering), (October 2017 - present)
+
 ---
+
 <p align="center">
 <img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMCreme&layout=compact&theme=dracula">
 </p>
@@ -65,13 +73,14 @@
 
 
 ---
+
 ## Github Stats
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TMCreme&show_icons=true&theme=dracula" /></a>
 
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TMCreme&theme=dracula"/></a>
 
-
+---
 
 ## Contact
 - 📫 Reach me at [email](mailto:tonnybright35@gmail.com), [Twitter](https://twitter.com/BrightTonny), [Linkedin](https://www.linkedin.com/in/tonny-bright-sogli-245566a9/) 
