@@ -44,6 +44,8 @@
 <img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMCreme&layout=compact&theme=dracula">
 </p>
 
+---
+
 <h1 align="center"> 🔧 Technologies & Tools </h1>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3498DB)
