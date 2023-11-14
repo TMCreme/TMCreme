@@ -6,7 +6,9 @@
 ---
 
 ## Projects
-* [LawSMS](https://isms.lawsms.com/). A [mobile](https://play.google.com/store/apps/details?id=com.lawsms.app) and [web](https://isms.lawsms.com/) application to deliver legal content through SMS subscriptions. Using Django and Django Rest Framework for APIs to be consumed by the mobile and web applications.
+* [The LegalFind](https://trylegalfind.com/) -  A web application for legal cases including advanced search for law firms.
+
+* [The Datakirk](https://thedatakirk.org.uk) - A web application for The Datakirk, an NGO in the UK, Scotland engaged in bridging the gap between tech talents and the job market.
 
 * [ECS Infrastructure](https://github.com/TMCreme/terraform-airflow-ecs) using Terraform. Provisioning an ECS Cluster with Terraform including VPC, subnets, Internet gateway, Security groups, Load balancer, etc. 
 
